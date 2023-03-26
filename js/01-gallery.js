@@ -3,9 +3,6 @@ import { galleryItems } from "./gallery-items.js";
 
 
 
-import * as basicLightbox from "basiclightbox";
-import "basiclightbox/dist/basicLightbox.min.css";
-
 const galleryRef = document.querySelector(".gallery");
 
 const galleryMarkup = galleryItems
